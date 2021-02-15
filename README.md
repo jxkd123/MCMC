@@ -8,3 +8,6 @@ https://github.com/GeostatsGuy/PythonNumericalDemos
 
 概率统计课件：
 https://github.com/prob140/textbook/tree/eede41c478b4eba3c838ef6a7191cb4734e30ca5/_build/html/_sources/content
+
+增强学习应用于金融投资组合管理
+https://github.com/vermouth1992/drl-portfolio-management
