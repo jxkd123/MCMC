@@ -11,3 +11,6 @@ https://github.com/prob140/textbook/tree/eede41c478b4eba3c838ef6a7191cb4734e30ca
 
 增强学习应用于金融投资组合管理
 https://github.com/vermouth1992/drl-portfolio-management
+
+MCMC examples
+https://github.com/WillKoehrsen/ai-projects/blob/master/markov_chain_monte_carlo/markov_chain_monte_carlo.ipynb?spm=a2c6h.12873639.0.0.1be4d684Cwuz7O&file=markov_chain_monte_carlo.ipynb
